@@ -1,0 +1,22 @@
+.card {
+    max-width: 400px;
+    margin: .5rem auto;
+    width: 100%;
+    padding: 12px 10px;
+    font-size: 16px;
+    font-weight: 500;
+    border-radius: 16px;
+    border: 1px solid #e2e4ea;
+    background-color: #fff;
+    color: #1c1c1c;
+    cursor: pointer;
+    appearance: none;
+    -webkit-appearance: none;
+    display: flex;
+    justify-content: space-between;
+}
+
+.empty-state {
+    text-align: center;
+    margin-top: 5rem;
+}
