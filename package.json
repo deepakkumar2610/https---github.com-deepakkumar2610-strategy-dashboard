@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://deepakkumar2610.github.io/strategy-dashboard--app",
+  "homepage": "https://deepakkumar2610.github.io/https---github.com-deepakkumar2610-strategy-dashboard",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
